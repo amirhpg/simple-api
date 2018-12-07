@@ -102,6 +102,4 @@ class Database{
         $stmt->execute([$firstName,$lastName,$password,$username]);
 
     }
-
-
 }
